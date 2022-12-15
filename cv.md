@@ -7,9 +7,8 @@
 [My Vkontakte profile](https://vk.com/id176668841)
 [My Instagram profile](https://www.instagram.com/rita_braun/?hl=ru)
 ## **I am studying at the Belarusian State University of Culture and Arts by correspondence. My specialization is "Computer technology in Art". I like to combine computer technology and art, so now I am studying at RS School and taking a course in JS\Frontend development. The preparatory stage is a new and interesting experience for me.**
-<Learning to do, doing to learn. 
-### Skills: I can create websites on a local Open Server using Joomla, WordPress. She studied graphic programs Photoshop, Corel and others.
-Education: arts and crafts, artist. Well, more of an actress. I really like being in art.
+<Learning to do, doing to learn.
+### 
 ```html
 <ul>
                     <li>Первый первому</li>
