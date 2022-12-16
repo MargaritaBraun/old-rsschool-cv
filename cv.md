@@ -17,5 +17,3 @@ Education: arts and crafts, artist. Well, more of an actress. I really like bein
                     <li>Третий проходит мимо</li>
                     <li>Четвертый пятому</li>
                     <li>А пятый первому</li>
- </ul>;
-```
